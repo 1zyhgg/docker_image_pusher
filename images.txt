@@ -2,6 +2,7 @@ nginx
 mongo:7.0.4
 autumn27/scopesentry:latest
 xhofe/alist:latest
+vulhub/postgres
 honmashironeko/arl-docker-all
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
