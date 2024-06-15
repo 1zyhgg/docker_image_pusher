@@ -1,6 +1,6 @@
 nginx
 mongo:7.0.4
-arl-docker-initial
+honmashironeko/arl-docker-initial
 honmashironeko/arl-docker-all
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
